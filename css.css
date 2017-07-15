@@ -1,0 +1,69 @@
+
+
+body {
+    background-color:mediumpurple;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray; 
+}
+
+li {
+    float: left;
+    width: 275px;
+    height: 50px;
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    
+}
+
+li a:hover {
+    background-color: #111111;
+    opacity:0.25;
+    
+
+}
+
+
+#image1 {
+    
+    padding-top: 0px;
+    padding-left: 150px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.column1of3, .column2of3, .column3of3  {
+    
+    display : block;
+    width : 300 px;
+    float: left;
+    margin: 10 px;
+    padding: 100px;
+}
+
+.pink-background{
+    background-color:pink;
+    color: blue;
+}
+
+
+
+
+
+ 
